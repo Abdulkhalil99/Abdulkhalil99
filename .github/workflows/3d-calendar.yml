@@ -7,14 +7,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Abdulkhalil99
-      - run: |
+      - name: Commit and push
+        run: |
           git config user.email "abdulkhalilmohammadi472@gmail.com"
           git config user.name "Abdulkhalil99"
           git add -A .
-          git commit -m "chore: update 3D contrib calendar" || exit 0
+          git diff --cached --quiet || git commit -m "chore: update 3D contrib calendar"
           git push
