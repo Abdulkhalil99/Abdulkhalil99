@@ -562,9 +562,6 @@ jobs:
 ---
 
 <!-- ████████████████████████████████████████████████████ -->
-<!--              CONTRIBUTION HEATMAP                   -->
-<!-- ████████████████████████████████████████████████████ -->
-<!-- ████████████████████████████████████████████████████ -->
 <!--              3D CONTRIBUTION CALENDAR               -->
 <!-- ████████████████████████████████████████████████████ -->
 
@@ -576,12 +573,15 @@ jobs:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nicklvsa/nicklvsa/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
+<img src="https://contrib.rocks/image?repo=Abdulkhalil99/Abdulkhalil99" width="100%"/>
 
-<a href="https://github.com/Abdulkhalil99">
-<img src="https://api.githubtrends.io/user/svg/Abdulkhalil99/langs?time_range=one_year&theme=dark" width="49%"/>
-<img src="https://api.githubtrends.io/user/svg/Abdulkhalil99/repos?time_range=one_year&theme=dark" width="49%"/>
-</a>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulkhalil99&theme=dark&hide_border=true&background=0a0a0a&ring=00ffcc&fire=ff4ade&currStreakLabel=00ffcc&sideLabels=00ccff&stroke=1a1a1a" width="70%"/>
 
 </div>
 
