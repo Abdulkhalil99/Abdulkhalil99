@@ -565,23 +565,19 @@ jobs:
 <!--              3D CONTRIBUTION CALENDAR               -->
 <!-- ████████████████████████████████████████████████████ -->
 
+<!-- ████████████████████████████████████████████████████ -->
+<!--              CONTRIBUTION HEATMAP                   -->
+<!-- ████████████████████████████████████████████████████ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%203D%20CONTRIBUTION%20CALENDAR&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%20CONTRIBUTION%20HEATMAP&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://contrib.rocks/image?repo=Abdulkhalil99/Abdulkhalil99" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulkhalil99&theme=dark&hide_border=true&background=0a0a0a&ring=00ffcc&fire=ff4ade&currStreakLabel=00ffcc&sideLabels=00ccff&stroke=1a1a1a" width="70%"/>
+<img src="https://ghchart.rshah.org/00ffcc/Abdulkhalil99" width="98%" alt="Abdul Khalil's Contribution Chart"/>
 
 </div>
 
