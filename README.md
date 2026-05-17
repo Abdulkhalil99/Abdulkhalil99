@@ -565,17 +565,28 @@ jobs:
 <!--              CONTRIBUTION HEATMAP                   -->
 <!-- ████████████████████████████████████████████████████ -->
 
+<!-- ████████████████████████████████████████████████████ -->
+<!--              3D CONTRIBUTION CALENDAR               -->
+<!-- ████████████████████████████████████████████████████ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%20CONTRIBUTION%20HEATMAP&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%203D%20CONTRIBUTION%20CALENDAR&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00ffcc/Abdulkhalil99" width="98%" alt="Abdul Khalil's Contribution Chart"/>
+<img src="https://raw.githubusercontent.com/nicklvsa/nicklvsa/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
+
+<a href="https://github.com/Abdulkhalil99">
+<img src="https://api.githubtrends.io/user/svg/Abdulkhalil99/langs?time_range=one_year&theme=dark" width="49%"/>
+<img src="https://api.githubtrends.io/user/svg/Abdulkhalil99/repos?time_range=one_year&theme=dark" width="49%"/>
+</a>
 
 </div>
+
+<br/>
 
 <br/>
 ---
