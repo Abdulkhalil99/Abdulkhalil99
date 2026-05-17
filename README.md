@@ -562,52 +562,22 @@ jobs:
 ---
 
 <!-- ████████████████████████████████████████████████████ -->
-<!--              3D CONTRIBUTION CALENDAR               -->
+<!--              CONTRIBUTION HEATMAP                   -->
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%203D%20CONTRIBUTION%20CALENDAR&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:001a0d&height=55&text=◉%20CONTRIBUTION%20HEATMAP&fontColor=00ffaa&fontSize=20&animation=fadeIn&fontAlignY=65"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![3D Contributions](https://raw.githubusercontent.com/Abdulkhalil99/Abdulkhalil99/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Abdulkhalil99)
+<img src="https://ghchart.rshah.org/00ffcc/Abdulkhalil99" width="98%" alt="Abdul Khalil's Contribution Chart"/>
 
 </div>
 
-<details>
-<summary><b>⚙️ GitHub Action — 3D Calendar Setup</b></summary>
-
-```yaml
-# .github/workflows/3d-calendar.yml
-name: 3D-Contrib
-on:
-  schedule:
-    - cron: '0 18 * * *'
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Abdulkhalil99
-      - run: |
-          git config user.email "abdulkhalilmohammadi472@gmail.com"
-          git config user.name "Abdulkhalil99"
-          git add -A .
-          git commit -m "chore: update 3D contrib calendar" || exit 0
-          git push
-```
-
-</details>
-
 <br/>
-
 ---
 
 <!-- ████████████████████████████████████████████████████ -->
