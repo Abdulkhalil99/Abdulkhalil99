@@ -379,6 +379,64 @@ FEATURES:
 </div>
 
 <br/>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#0d1117" rx="12"/>
+
+  <!-- Grid rings -->
+  <polygon fill="none" stroke="#30363d" stroke-width="0.8" points="200,100 300,200 200,300 100,200"/>
+  <polygon fill="none" stroke="#30363d" stroke-width="0.8" points="200,130 270,200 200,270 130,200"/>
+  <polygon fill="none" stroke="#30363d" stroke-width="0.8" points="200,160 240,200 200,240 160,200"/>
+
+  <!-- Spokes -->
+  <line x1="200" y1="200" x2="200" y2="100" stroke="#30363d" stroke-width="0.8"/>
+  <line x1="200" y1="200" x2="300" y2="200" stroke="#30363d" stroke-width="0.8"/>
+  <line x1="200" y1="200" x2="200" y2="300" stroke="#30363d" stroke-width="0.8"/>
+  <line x1="200" y1="200" x2="100" y2="200" stroke="#30363d" stroke-width="0.8"/>
+
+  <!--
+    4 axes: Top=Commits(95%), Right=Pull Requests(70%), Bottom=Repositories(80%), Left=Code Reviews(60%)
+    radius max = 100px from center (200,200)
+    Top:    (200, 200 - r)
+    Right:  (200 + r, 200)
+    Bottom: (200, 200 + r)
+    Left:   (200 - r, 200)
+  -->
+
+  <!-- Data polygon: 95→r=95, 70→r=70, 80→r=80, 60→r=60 -->
+  <polygon
+    points="200,105  270,200  200,280  140,200"
+    fill="rgba(0,255,204,0.12)"
+    stroke="#00ffcc"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Dots -->
+  <circle cx="200" cy="105" r="4" fill="#00ffcc"/>
+  <circle cx="270" cy="200" r="4" fill="#00ffcc"/>
+  <circle cx="200" cy="280" r="4" fill="#00ffcc"/>
+  <circle cx="140" cy="200" r="4" fill="#00ffcc"/>
+
+  <!-- Labels -->
+  <text x="200" y="88"  text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#00ffcc">COMMITS</text>
+  <text x="200" y="99"  text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">95%</text>
+
+  <text x="318" y="196" text-anchor="start"  font-family="monospace" font-size="11" font-weight="bold" fill="#00ffcc">PULL REQUESTS</text>
+  <text x="318" y="208" text-anchor="start"  font-family="monospace" font-size="10" fill="#8b949e">70%</text>
+
+  <text x="200" y="316" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#00ffcc">REPOSITORIES</text>
+  <text x="200" y="328" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">80%</text>
+
+  <text x="82"  y="196" text-anchor="end"    font-family="monospace" font-size="11" font-weight="bold" fill="#00ffcc">CODE REVIEWS</text>
+  <text x="82"  y="208" text-anchor="end"    font-family="monospace" font-size="10" fill="#8b949e">60%</text>
+
+  <!-- Title -->
+  <text x="200" y="20" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#e6edf3" letter-spacing="1">◉ ACTIVITY RADAR</text>
+  <text x="200" y="34" text-anchor="middle" font-family="monospace" font-size="9"  fill="#8b949e">@Abdulkhalil99</text>
+</svg>
+<div align="center">
+  <img src="chart.svg" width="400"/>
+</div>
 
 ---
 
