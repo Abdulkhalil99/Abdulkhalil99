@@ -343,8 +343,10 @@ FEATURES:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulkhalil99&bg_color=0a0a0a&color=00ffcc&line=00ccff&point=ff4ade&area=true&area_color=00ffcc&hide_border=true&custom_title=Contribution%20Graph%20—%20Abdul%20Khalil%20Mohammadi&radius=4" width="98%"/>
-
+<br/>
 </div>
+<img src="https://raw.githubusercontent.com/Abdulkhalil99/Abdulkhalil99/main/github-activity-radar.svg" width="600"/>
+
 
 <br/>
 
