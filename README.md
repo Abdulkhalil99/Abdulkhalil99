@@ -374,7 +374,7 @@ FEATURES:
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Abdulkhalil99&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/Abdulkhalil99/Abdulkhalil99/main/trophies.svg" width="100%"/>
 
 </div>
 
