@@ -1,0 +1,145 @@
+<svg width="100%" viewBox="0 0 860 260" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Abdul Khalil Mohammadi GitHub Trophies</title>
+<desc>Eight GitHub achievement trophies displayed in a dark cyberpunk style card grid</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0d0d1a"/>
+    <stop offset="100%" stop-color="#080810"/>
+  </linearGradient>
+  <linearGradient id="ga" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#00ffcc"/>
+    <stop offset="100%" stop-color="#00b894"/>
+  </linearGradient>
+  <linearGradient id="gb" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffaa44"/>
+    <stop offset="100%" stop-color="#e67e22"/>
+  </linearGradient>
+  <linearGradient id="gc" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#5599ff"/>
+    <stop offset="100%" stop-color="#2266dd"/>
+  </linearGradient>
+  <linearGradient id="gu" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2a2a3a"/>
+    <stop offset="100%" stop-color="#1a1a28"/>
+  </linearGradient>
+</defs>
+
+<rect width="860" height="260" fill="url(#bg)" rx="12"/>
+<rect x="1" y="1" width="858" height="258" fill="none" stroke="#1a1a2e" stroke-width="1.5" rx="12"/>
+
+<line x1="40" y1="30" x2="820" y2="30" stroke="#1a1a2e" stroke-width="0.5"/>
+<text x="430" y="21" font-family="monospace" font-size="10" fill="#2a2a4a" text-anchor="middle" letter-spacing="4">GITHUB TROPHIES · ABDULKHALIL99</text>
+<line x1="40" y1="30" x2="820" y2="30" stroke="#1a1a2e" stroke-width="0.5"/>
+
+<g transform="translate(12,38)">
+  <rect width="98" height="148" rx="8" fill="#0e0e1c" stroke="#00ffcc" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#ga)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#112"/>
+  <rect x="12" y="120" width="68" height="3" rx="1.5" fill="url(#ga)" opacity="0.9"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="url(#ga)" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#00ffcc" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#00ffcc" text-anchor="middle">A</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#00ffcc" text-anchor="middle" letter-spacing="1">COMMITS</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#ccffee" text-anchor="middle">High Committer</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#556655" text-anchor="middle">106 pts</text>
+</g>
+
+<g transform="translate(118,38)">
+  <rect width="98" height="148" rx="8" fill="#0e0e1c" stroke="#ffaa44" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gb)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#221500"/>
+  <rect x="12" y="120" width="38" height="3" rx="1.5" fill="url(#gb)" opacity="0.9"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="url(#gb)" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#ffaa44" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#ffaa44" text-anchor="middle">B</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#ffaa44" text-anchor="middle" letter-spacing="1">STARS</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#ffd9aa" text-anchor="middle">Middle Star</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#665533" text-anchor="middle">20 pts</text>
+</g>
+
+<g transform="translate(224,38)">
+  <rect width="98" height="148" rx="8" fill="#0e0e1c" stroke="#ffaa44" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gb)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#221500"/>
+  <rect x="12" y="120" width="28" height="3" rx="1.5" fill="url(#gb)" opacity="0.9"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="url(#gb)" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#ffaa44" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#ffaa44" text-anchor="middle">B</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#ffaa44" text-anchor="middle" letter-spacing="1">REPOS</text>
+  <text x="49" y="90" font-family="monospace" font-size="9.5" fill="#ffd9aa" text-anchor="middle">Middle Creator</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#665533" text-anchor="middle">13 pts</text>
+</g>
+
+<g transform="translate(330,38)">
+  <rect width="98" height="148" rx="8" fill="#0e0e1c" stroke="#ffaa44" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gb)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#221500"/>
+  <rect x="12" y="120" width="16" height="3" rx="1.5" fill="url(#gb)" opacity="0.9"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="url(#gb)" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#ffaa44" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#ffaa44" text-anchor="middle">B</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#ffaa44" text-anchor="middle" letter-spacing="1">EXPERIENCE</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#ffd9aa" text-anchor="middle">Junior Dev</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#665533" text-anchor="middle">6 pts</text>
+</g>
+
+<g transform="translate(436,38)">
+  <rect width="98" height="148" rx="8" fill="#0e0e1c" stroke="#5599ff" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gc)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#001133"/>
+  <rect x="12" y="120" width="20" height="3" rx="1.5" fill="url(#gc)" opacity="0.9"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="url(#gc)" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#5599ff" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#5599ff" text-anchor="middle">C</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#5599ff" text-anchor="middle" letter-spacing="1">FOLLOWERS</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#aaccff" text-anchor="middle">First Friend</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#223355" text-anchor="middle">7 pts</text>
+</g>
+
+<g transform="translate(542,38)">
+  <rect width="98" height="148" rx="8" fill="#0a0a14" stroke="#222233" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gu)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#111120"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="#2a2a3a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#2a2a3a" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#2a2a3a" text-anchor="middle">?</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#2a2a3a" text-anchor="middle" letter-spacing="1">REVIEWS</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#2a2a3a" text-anchor="middle">Unknown</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#1e1e2e" text-anchor="middle">0 pts</text>
+</g>
+
+<g transform="translate(648,38)">
+  <rect width="98" height="148" rx="8" fill="#0a0a14" stroke="#222233" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gu)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#111120"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="#2a2a3a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#2a2a3a" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#2a2a3a" text-anchor="middle">?</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#2a2a3a" text-anchor="middle" letter-spacing="1">ISSUES</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#2a2a3a" text-anchor="middle">Unknown</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#1e1e2e" text-anchor="middle">0 pts</text>
+</g>
+
+<g transform="translate(754,38)">
+  <rect width="98" height="148" rx="8" fill="#0a0a14" stroke="#222233" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="0" y="0" width="98" height="4" rx="8" fill="url(#gu)"/>
+  <rect x="12" y="120" width="74" height="3" rx="1.5" fill="#111120"/>
+  <polygon points="49,18 54,32 70,32 57,41 62,56 49,47 36,56 41,41 28,32 44,32" fill="none" stroke="#2a2a3a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="49" cy="37" r="9" fill="#0a0a16" stroke="#2a2a3a" stroke-width="1.5"/>
+  <text x="49" y="42" font-family="monospace" font-size="13" font-weight="bold" fill="#2a2a3a" text-anchor="middle">?</text>
+  <text x="49" y="76" font-family="monospace" font-size="8.5" fill="#2a2a3a" text-anchor="middle" letter-spacing="1">PULL REQ</text>
+  <text x="49" y="90" font-family="monospace" font-size="10" fill="#2a2a3a" text-anchor="middle">Unknown</text>
+  <text x="49" y="106" font-family="monospace" font-size="9" fill="#1e1e2e" text-anchor="middle">0 pts</text>
+</g>
+
+<line x1="40" y1="202" x2="820" y2="202" stroke="#111122" stroke-width="0.5"/>
+<circle cx="200" cy="218" r="4" fill="#00ffcc" opacity="0.8"/>
+<text x="212" y="222" font-family="monospace" font-size="9" fill="#335544">A — Expert</text>
+<circle cx="290" cy="218" r="4" fill="#ffaa44" opacity="0.8"/>
+<text x="302" y="222" font-family="monospace" font-size="9" fill="#554422">B — Advanced</text>
+<circle cx="400" cy="218" r="4" fill="#5599ff" opacity="0.8"/>
+<text x="412" y="222" font-family="monospace" font-size="9" fill="#223355">C — Growing</text>
+<circle cx="500" cy="218" r="4" fill="#2a2a3a"/>
+<text x="512" y="222" font-family="monospace" font-size="9" fill="#333344">? — Locked</text>
+<text x="430" y="245" font-family="monospace" font-size="8" fill="#1a1a2a" text-anchor="middle" letter-spacing="2">WRITE · BUILD · SHIP · REPEAT</text>
+</svg>
